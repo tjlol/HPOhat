@@ -1,6 +1,9 @@
 # HPOhat
 A gene prioritization method based on data fusion and random forest
 
+### Environment
+Linux
+
 ### Release files
 cat HPOhat.tar.bz2.aa HPOhat.tar.bz2.ab| tar xj
 
