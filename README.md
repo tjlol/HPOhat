@@ -1,2 +1,2 @@
 # HPOhat
-A gene prioritization based on data fusion and random forest
+A gene prioritization method based on data fusion and random forest
