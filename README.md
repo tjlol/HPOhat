@@ -21,5 +21,6 @@ Input files to HPOhat should contain gene name list, showing in example folder.
 
 ### Run the code
 One can run the code using the following command after configuring the environment and downloading the data.
+
 `./hpohat input output database/gene.data`
 
