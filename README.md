@@ -7,7 +7,7 @@ Linux system
 ### Download database
 Due to the limit of the file size on Github, we compress and split the database. You can download these two split files and merge them into one database file named "gene.data".
 
-`cat HPOhat.tar.bz2.aa HPOhat.tar.bz2.ab| tar xj`
+`cat HPOhat.tar.bz2.0 HPOhat.tar.bz2.1| tar xj`
 
 ### General Use Case
 This software can be used in one of three scenarios:
